@@ -1,7 +1,7 @@
 # GraphQL_Relay_React_twitterAPI_test
 
 ## Synopsis
-Using React and Relay to display the 5 most popluar tweets containg the string "test" fetched from GraphQLHub twitterAPI
+Used React and Relay to display the 5 most popluar tweets containg the string "test" fetched from GraphQLHub twitterAPI
 
 ## Installation
 clone repository
